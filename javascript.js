@@ -11,12 +11,12 @@ var msg1="";
 
 
  if (d > 18)  {
-                msg = 'Open till 9pm';
+                msg = 'HELLO';
 }
 
 else if (d > 12) {
                    // greeting = document.getElementById('b').style.display= 'block'; // Delete Comment(two forward slash before greeting) Display Image & Text.
-                    msg1 ='Voucher Available';
+                    msg1 ='TODAY';
 }
 
 else if ((d > 0) && (d < 7)) {
