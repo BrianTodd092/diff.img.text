@@ -1,4 +1,4 @@
-#b,#c,#d { position:relative;left:20%;top:20%;display: none;}
+#b,#c,#d { position:relative;left:20%;display: none;}
 #e { color: blue; font-size:2rem; font-weight:bold;}
 #f { color: green; font-size:2rem; font-style: italic;}
 noscript { color:red; font-family: Impact, Charcoal, sans-serif;}
